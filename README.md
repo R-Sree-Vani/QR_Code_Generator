@@ -1,5 +1,5 @@
 # QR_Code_Generator
-Check out: https://qrcode-generator-52jk.onrender.com/
+Check out: https://qrcode-generator-52jk.onrender.com/ <br>
 Technology:<br>
 Node Js <br>
 Express Js
